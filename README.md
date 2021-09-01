@@ -9,5 +9,5 @@ El archivo mp4TOjpg.py transforma un video mp4 a imagenes jpg en la misma carpet
 
 
 El archivo CG.py integra en primer versión todos los módulos anteriores y agrega:
-** modelo de alambre
-** calculo del centro de gravedad
+#### modelo de alambre
+#### calculo del centro de gravedad
