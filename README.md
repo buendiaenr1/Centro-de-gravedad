@@ -8,6 +8,15 @@ El archivo mp4TOjpg.py transforma un video mp4 a imagenes jpg en la misma carpet
 
 
 
-El archivo CG.py integra en primer versión todos los módulos anteriores y agrega:
+El archivo CG_1.001.py integra en primer versión todos los módulos anteriores y agrega:
 #### * modelo de alambre
 #### * calculo del centro de gravedad
+
+# forma de uso:
+
+#### a: borrar archivos anteriores (solo respalda información anterior de las coordenadas digitalizadas)
+
+# 1. tener un video en formato mp4
+# 2. convertir el video en imagenes jpg
+# 3. digitalizar los 21 puntos de control en cada imagen de dicho video
+# 4. mostrar el modelo de alambre y ubicación de su centro de gravedad
