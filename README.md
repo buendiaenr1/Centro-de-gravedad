@@ -18,5 +18,5 @@ El archivo CG_1.001.py integra en primer versión todos los módulos anteriores 
 
 ### 1. tener un video en formato mp4
 ### 2. convertir el video en imagenes jpg
-### 3. digitalizar los 21 puntos de control en cada imagen de dicho video
+### 3. digitalizar (sensible a botón del ratón) los 21 puntos de control en cada imagen de dicho video (no hay forma de corregir errores)
 ### 4. mostrar el modelo de alambre y ubicación de su centro de gravedad
