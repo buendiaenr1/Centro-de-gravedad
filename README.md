@@ -7,10 +7,13 @@ Las coordenadas del archivo c_real.txt son coordandas del mundo real, transforma
 El archivo mp4TOjpg.py transforma un video mp4 a imagenes jpg en la misma carpeta donde se encuentra este archivo. Funciona como herramienta de apoyo para la digitalización.
 
 
+### si desea borrar información anterior hagalo directamente sobre la carpata de trabajo,
+### recomendable al iniciar un proyecto
 
-El archivo CG_1.001.py integra en primer versión todos los módulos anteriores y agrega:
+El archivo CG_1.002.py integra en primer versión todos los módulos anteriores y agrega:
 #### * modelo de alambre
 #### * calculo del centro de gravedad
+#### * en conjunto con tang.py calcula angulos seleccionando una imagen jpg
 
 # forma de uso:
 
