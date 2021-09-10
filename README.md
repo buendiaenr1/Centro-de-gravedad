@@ -16,8 +16,9 @@ El archivo CG_1.003.py integra en primer versión todos los módulos anteriores 
 #### * en conjunto con tang.py calcula angulos seleccionando una imagen jpg
 #### * en conjunto con dist.py estima distancias con base a un perfil de objeto de referencia (definido por dos puntos).
 1. registrar la medida real del objeto de referencia ( cerrar la ventana)
-2. definir dos puntos del perfil del objeto de referencia
-3. definir los dos puntos de la distancia calcular
+2. seleccionar la imagen para trabajar
+3. definir dos puntos del perfil del objeto de referencia
+4. definir los dos puntos de la distancia calcular
 
 # forma de uso:
 
