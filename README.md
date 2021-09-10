@@ -14,6 +14,9 @@ El archivo CG_1.003.py integra en primer versión todos los módulos anteriores 
 #### * modelo de alambre
 #### * calculo del centro de gravedad
 #### * en conjunto con tang.py calcula angulos seleccionando una imagen jpg
+1. seleccionar imagen a trabajar
+2. definir tres puntos de referencia
+3. mostrar el ángulo calculado usando las coordenadas de los puntos anteriores (puede ser ángulo interno o extreno)
 #### * en conjunto con dist.py estima distancias con base a un perfil de objeto de referencia (definido por dos puntos).
 1. registrar la medida real del objeto de referencia ( cerrar la ventana)
 2. seleccionar la imagen para trabajar
