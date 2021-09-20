@@ -79,7 +79,8 @@ cc = []
 my_dpi = 96
 fig = plt.figure("Método segmentario BIOMECÁNICA EN CIENCIAS DE LA ACTIVIDAD FÍSICA Y DEPORTE",
                  figsize=(1000/my_dpi, 1000/my_dpi), dpi=my_dpi)
-fig.suptitle('Enrique Buendia, BUAP 2021:  Módulo Digitalizar', fontsize=12)
+fig.suptitle(
+    'Enrique Buendia, BUAP 2021:  Módulo Digitalizar Ángulo', fontsize=12)
 
 # cambiar a coordenadas reales
 alto_real = 1000
