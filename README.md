@@ -10,12 +10,12 @@ El archivo mp4TOjpg.py transforma un video mp4 a imagenes jpg en la misma carpet
 ### si desea borrar información anterior hágalo directamente sobre la carpata de trabajo (archivos .txt y .bk),
 ### recomendable al iniciar un proyecto
 
-El archivo CG_1.003.py integra en primer versión todos los módulos anteriores y agrega:
+El archivo CG_1.004.py integra en primer versión todos los módulos anteriores y agrega:
 #### * modelo de alambre
 #### * calculo del centro de gravedad
-#### * en conjunto con tang.py calcula angulos seleccionando una imagen jpg
+#### * en conjunto con tang_v1.py calcula angulos seleccionando una imagen jpg
 1. seleccionar imagen a trabajar
-2. definir tres puntos de referencia
+2. definir tres puntos de referencia (dar clic con el primer botón del ratón en tres puntos que definen un ángulo)
 3. mostrar el ángulo calculado usando las coordenadas de los puntos anteriores (puede ser ángulo interno o extreno)
 #### * en conjunto con dist.py estima distancias con base a un perfil de objeto de referencia (definido por dos puntos).
 1. registrar la medida real del objeto de referencia ( cerrar la ventana)
